@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html prefix="foaf: http://xmlns.com/foaf/0.1/" lang="en">
+  <head>
+    <title>POC NOSADr</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <link rel="stylesheet" href="style.css">
+   </head>
+  <script src="index.js"></script> 
+  <body>
+  <a href="https://github.com/salgo60/NOSAD"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+  <!--Container-->
+  
+  <div id="container">
+  
+    <!--Header-->
+  
+    <!--Content-->
+    
+    <!--Navigation-->
+          
+    <!--Main-->
+    <h1>POC NOSAD</h1>
+    <div class="form">
+      <form>
+        <input id="qNumberInput" type="search" name="q" placeholder="Ange Wikidata Q-nummmer här">
+        <button type="submit" onClick="searchFromTextbox()">Submit</button>
+      </form>
+    </div>
+
+    <br />
+
+    <div id="error"></div>
+
+    <div id="results">
+      <div id="resultsHeader">
+        <span id="imagesDepicting">
+          Kommun info om <a id="resultsHeaderLink" href="" target="_blank"></a>
+        </span>
+        <br /><br />
+        <span id="numResults">?</span> dokument funna
+        <br /><br />
+      </div>
+      <a id="returnToLink" href="">
+        <button>Åter till Wikipedia artikeln</button>
+      </a>
+    </div>
+  </body>
+</html>    
