@@ -70,7 +70,7 @@ function generateHeader(qNum, returnTo) {
       .then((data) => {
         const label = data['entities']['' + qNum]['labels']['sv']['value'];
         const resultsHeader = document.getElementById('imagesDepicting');
-        resultsHeader.innerHTML = 'Kommundokument om <a href="https://www.wikidata.org/wiki/' + qNum + '" target="_blank">' + qNum + '</a> (' + label + ')';
+        resultsHeader.innerHTML = 'NOSAD aktivitet/presentation/xxx om <a href="https://www.wikidata.org/wiki/' + qNum + '" target="_blank">' + qNum + '</a> (' + label + ')';
       });
 
     // Show "back to article" button
@@ -166,7 +166,7 @@ function getImages(qNum, offset) {
         fetch(fetchThumbnailsURL, {
           method: 'GET',
           headers: new Headers({
-            'Api-User-Agent': 'Anslagstavla! [In Development] (https://github.com/salgo60/Anslagstavla)'
+            'Api-User-Agent': 'NOSAD! [In Development] (https://github.com/salgo60/Anslagstavla)'
           })
         }).then((response) => response.json())
           .then((data) => {
