@@ -15,10 +15,12 @@ Till exempel kan frågor ställas mot wikidata och jämföras med vad partierna 
 politikerna över parti- och blockgränser samt om argumenten förändras inom ett motionsämne över tid. 
 
 Arbetet har skett oförtröttligt sedan dataimporten 2020, och nu är andelen huvudteman på 
-motioner [uppe i 19,5 %. https://www.wikidata.org/w/index.php?title=Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Coverage_of_motions_by_series&oldid=1725220018]
+motioner [uppe i 19,5 %](https://www.wikidata.org/w/index.php?title=Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Coverage_of_motions_by_series&oldid=1725220018]
+
+<img width="1023" alt="image" src="https://user-images.githubusercontent.com/14206509/192167862-27b78b28-5c39-43bb-80be-4a277fcca817.png">
 
 För vissa utskott i mycket högre grad. För till exempel Trafikutskottet 
-är huvudtema tillagt till [ 43 % av motionerna. https://www.wikidata.org/w/index.php?title=Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Coverage_of_motions_by_legislative_committee&oldid=1721094364] Det går därmed att börja dra analyser om vilka ämnen som engagerar riksdagsledamöter mest inom området trafik och kommunikationer. 
+är huvudtema tillagt till [43 % av motionerna](https://www.wikidata.org/w/index.php?title=Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Coverage_of_motions_by_legislative_committee&oldid=1721094364). Det går därmed att börja dra analyser om vilka ämnen som engagerar riksdagsledamöter mest inom området trafik och kommunikationer. 
 
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/14206509/192167523-8dc6e93c-3025-4037-8f33-142904ca39dd.png">
 _Flödesschema över författare till motioner rörande järnvägsinfrastruktur 
@@ -28,7 +30,7 @@ Slutsatserna som går att dra från ett dokument som kopplats korrekt är hur
 beslutsgången i den svenska formella demokratin har gått till. Användare Ainali, 
 CC0 skapade ett flödesschema som visar hur beslutgången gick från utredning av högskoleavgift 
 för utländska studenter, till proposition och vidare till rättsfall i högsta domstolen som 
-ger praxis i tillämpning av svensk lagstiftning. Rättsfallet hanteras även [ett tidigare inlägg i bloggen: https://wikimedia.se/2020/10/26/analysera-rikspolitiken-med-hjalp-av-wikidata/]
+ger praxis i tillämpning av svensk lagstiftning. Rättsfallet hanteras även [ett tidigare inlägg i bloggen:](https://wikimedia.se/2020/10/26/analysera-rikspolitiken-med-hjalp-av-wikidata)
 
 Visualisering av hur utredning går till proposition till rättsfall i Högsta domstolen, av Ainali, CC0. 
 Så hur gick det?
