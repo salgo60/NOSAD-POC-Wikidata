@@ -10,7 +10,7 @@ Se om vi kan koppla ihop Wikipedia med NOSAD som finns i <a target=_blank href="
 
 ## Test NOSAD kopping Wikipedia
 
-To enable on all platforms:
+To enable on all platforms you need to have a Wikipedia account and then :
 
 1. Visit your global.js page on Meta: [Special:MyPage/global.js](https://meta.wikimedia.org/wiki/Special:MyPage/global.js)
 
@@ -20,4 +20,4 @@ To enable on all platforms:
 
 3. Click "Publish changes"
 
-Se example [common.js](https://meta.wikimedia.org/wiki/User:Salgo60/global.js)
+Se example [global.js](https://meta.wikimedia.org/wiki/User:Salgo60/global.js)
