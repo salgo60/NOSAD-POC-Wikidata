@@ -7,7 +7,8 @@ Se om vi kan koppla ihop Wikipedia med NOSAD som finns i <a target=_blank href="
   *  [API](https://salgo60.github.io/NOSAD/?q=Q165194)
   * [Öppna data](https://salgo60.github.io/NOSAD/?q=Q309901)
   * [Open by default](https://salgo60.github.io/NOSAD/?q=Q16584519)
-
+  * [Ope Goverment](https://salgo60.github.io/NOSAD/?q=Q720829) -  WD [Q720829](https://www.wikidata.org/wiki/Q720829)
+  
 ## Test NOSAD kopping Wikipedia
 
 To enable on all platforms you need to have a Wikipedia account and then :
