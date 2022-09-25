@@ -7,3 +7,17 @@ Se om vi kan koppla ihop Wikipedia med NOSAD som finns i <a target=_blank href="
   *  [API](https://salgo60.github.io/NOSAD/?q=Q165194)
   * [Öppna data](https://salgo60.github.io/NOSAD/?q=Q309901)
   * [Open by default](https://salgo60.github.io/NOSAD/?q=Q16584519)
+
+## Test NOSAD kopping Wikipedia
+
+To enable on all platforms:
+
+1. Visit your global.js page on Meta: [Special:MyPage/global.js](https://meta.wikimedia.org/wiki/Special:MyPage/global.js)
+
+2. Copy in the code:
+
+> w.loader.load( '//meta.wikimedia.org/w/index.php?title=User:Salgo60/NOSAD.js&action=raw&ctype=text/javascript' );
+
+3. Click "Publish changes"
+
+Se example [common.js](https://meta.wikimedia.org/wiki/User:Salgo60/global.js)
