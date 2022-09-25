@@ -5,3 +5,4 @@ Se om vi kan koppla ihop Wikipedia med NOSAD som finns i <a target=_blank href="
 * Synpunkter/tankar lämnas i <a href="https://github.com/salgo60/NOSAD/issues">Issues</a>
 * Test sidor 
   *  [API](https://salgo60.github.io/NOSAD/?q=Q165194)
+  * [Öppna data](https://salgo60.github.io/NOSAD/?q=Q309901)
