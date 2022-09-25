@@ -16,7 +16,7 @@ To enable on all platforms:
 
 2. Copy in the code:
 
-> w.loader.load( '//meta.wikimedia.org/w/index.php?title=User:Salgo60/NOSAD.js&action=raw&ctype=text/javascript' );
+> mw.loader.load( '//meta.wikimedia.org/w/index.php?title=User:Salgo60/NOSAD.js&action=raw&ctype=text/javascript' );
 
 3. Click "Publish changes"
 
