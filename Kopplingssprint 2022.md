@@ -2,10 +2,16 @@
 
 Sedan två år tillbaka finns riksdagens metadata för lagar, propositioner, motioner, skriftliga 
 frågor med mera uppladdat på [wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) framförallt av användare [Popperipopp](https://wikidata.wikiscan.org/user/Popperipopp). 
-I metadatan ingår vem som står bakom dokumentet, vilket utskott som behandlade dokumentet och när dokumentet lämnades in. 
-Wikidata gör det möjligt att lägga till ytterligare data till varje dokument, som vad det refererar till, 
-orsaken till motionen eller vilket ämne som motionen behandlar. Dessa egenskaper är svåra att lägga till 
-maskinellt och det är här riktade skrivstugor, så kallade kopplingssprintar, kommer in i bilden. Dessa syftar 
+I metadatan ingår 
+* vem som står bakom dokumentet
+* vilket utskott som behandlade dokumentet o
+* när dokumentet lämnades in
+
+Wikidata gör det möjligt att lägga till ytterligare data till varje dokument, som 
+* vad det refererar till
+* orsaken till motionen
+* vilket ämne som motionen behandlar. 
+Dessa egenskaper är svåra att lägga till maskinellt och det är här riktade skrivstugor, så kallade kopplingssprintar, kommer in i bilden. Dessa syftar 
 till att lägga till som möjligt av dessa egenskaper under en eftermiddag. Användare [Ainali](https://wikidata.wikiscan.org/user/Ainali) tog 
 initiativet till [ett första kopplingssprint](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint)  under hösten 2020 och 21 augusti detta år genomfördes den andra. 
 
