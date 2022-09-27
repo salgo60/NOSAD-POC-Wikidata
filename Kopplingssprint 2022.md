@@ -31,7 +31,7 @@ För vissa utskott i mycket högre grad. För till exempel Trafikutskottet
 
 <img width="1200" alt="image" src="https://user-images.githubusercontent.com/14206509/192167523-8dc6e93c-3025-4037-8f33-142904ca39dd.png">
 
-_Flödesschema över författare till motioner rörande järnvägsinfrastruktur från 2009 och framåt_ Kortlänk: https://w.wiki/569u 
+_Författare kopplat till ämnen de motionerat om rörande järnvägsinfrastruktur från 2009 och framåt_ Kortlänk: https://w.wiki/569u 
 
 Slutsatserna som går att dra från ett dokument som kopplats korrekt är hur 
 beslutsgången i den svenska formella demokratin har gått till. Användare Ainali, 
