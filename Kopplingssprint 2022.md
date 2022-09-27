@@ -14,7 +14,7 @@ Wikidata gör det möjligt att lägga till ytterligare data till varje dokument,
 
 Dessa egenskaper är svåra att lägga till maskinellt och det är här riktade skrivstugor, så kallade [kopplingssprintar](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint), kommer in i bilden. Dessa syftar 
 till att lägga till som möjligt av dessa egenskaper under en eftermiddag. Användare [Ainali](https://wikidata.wikiscan.org/user/Ainali) tog 
-initiativet till [ett första kopplingssprint](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint)  under hösten 2020 och 21 augusti detta år genomfördes den andra. 
+initiativet till [ett första kopplingssprint](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint)  under hösten 2020 och [21 augusti detta år genomfördes den andra](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint_augusti_2022). 
 
 ### Vad är kopplingarna bra för? 
 När tillräcklig mängd av motioner har fått ämne, orsak och referenser tillagda är det möjligt att göra intressanta analyser. 
