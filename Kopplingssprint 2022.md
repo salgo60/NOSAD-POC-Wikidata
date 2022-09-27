@@ -40,8 +40,8 @@ för utländska studenter, till proposition och vidare till rättsfall i högsta
 ger praxis i tillämpning av svensk lagstiftning. Rättsfallet hanteras även [ett tidigare inlägg i bloggen:](https://wikimedia.se/2020/10/26/analysera-rikspolitiken-med-hjalp-av-wikidata)
 
 <img width="1200" alt="image" src="https://user-images.githubusercontent.com/14206509/192170737-89e3de5a-343e-445a-bc81-306685a9c4ff.png">
-
-_Visualisering av hur utredning går till proposition till rättsfall i Högsta domstolen, av Ainali, CC0
+ 
+_Visualisering av hur utredning går till proposition till rättsfall i Högsta domstolen, av Ainali, CC0_
 
 ### Så hur gick det?
 
