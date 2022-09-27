@@ -8,9 +8,9 @@ I metadatan ingår
 * när dokumentet lämnades in WD - [Property:P577](https://www.wikidata.org/wiki/Property:P577?uselang=sv)
 
 Wikidata gör det möjligt att lägga till ytterligare data till varje dokument, som 
-* vad det refererar till - [Property:P2860](https://www.wikidata.org/wiki/Property:P2860?uselang=sv)
-* orsaken till motionen - [Property:P828](https://www.wikidata.org/wiki/Property:P828?uselang=sv)
-* vilket ämne som motionen behandlar - [Property:P921](https://www.wikidata.org/wiki/Property:P921?uselang=sv)
+* vad det refererar till - [Property:P2860](https://www.wikidata.org/wiki/Property:P2860?uselang=sv) - [exempel](https://w.wiki/5kQ$)
+* orsaken till motionen - [Property:P828](https://www.wikidata.org/wiki/Property:P828?uselang=sv) - [exempel](https://w.wiki/5kR4)
+* vilket ämne som motionen behandlar - [Property:P921](https://www.wikidata.org/wiki/Property:P921?uselang=sv) - [exempel](https://w.wiki/5kR6)
 
 Dessa egenskaper är svåra att lägga till maskinellt och det är här riktade skrivstugor, så kallade [kopplingssprintar](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint), kommer in i bilden. Dessa syftar 
 till att lägga till som möjligt av dessa egenskaper under en eftermiddag. Användare [Ainali](https://wikidata.wikiscan.org/user/Ainali) tog 
