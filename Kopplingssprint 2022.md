@@ -3,8 +3,8 @@
 Sedan två år tillbaka finns riksdagens metadata för lagar, propositioner, motioner, skriftliga 
 frågor med mera uppladdat på [wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) framförallt av användare [Popperipopp](https://wikidata.wikiscan.org/user/Popperipopp). 
 I metadatan ingår 
-* vem som står bakom dokumentet - [Property:P50](https://www.wikidata.org/wiki/Property:P50)
-* vilket utskott som behandlade dokumentet - [Property:P7727](https://www.wikidata.org/wiki/Property:P7727?uselang=sv)
+* vem som står bakom dokumentet - [Property:P50](https://www.wikidata.org/wiki/Property:P50)  - [exempel](https://w.wiki/5kRF)
+* vilket utskott som behandlade dokumentet - [Property:P7727](https://www.wikidata.org/wiki/Property:P7727?uselang=sv) - [exempel](https://w.wiki/5kRD)
 * när dokumentet lämnades in WD - [Property:P577](https://www.wikidata.org/wiki/Property:P577?uselang=sv)
 
 Wikidata gör det möjligt att lägga till ytterligare data till varje dokument, som 
