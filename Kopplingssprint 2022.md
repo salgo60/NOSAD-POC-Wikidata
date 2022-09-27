@@ -12,7 +12,7 @@ Wikidata gör det möjligt att lägga till ytterligare data till varje dokument,
 * orsaken till motionen
 * vilket ämne som motionen behandlar. 
 
-Dessa egenskaper är svåra att lägga till maskinellt och det är här riktade skrivstugor, så kallade kopplingssprintar, kommer in i bilden. Dessa syftar 
+Dessa egenskaper är svåra att lägga till maskinellt och det är här riktade skrivstugor, så kallade [kopplingssprintar](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint), kommer in i bilden. Dessa syftar 
 till att lägga till som möjligt av dessa egenskaper under en eftermiddag. Användare [Ainali](https://wikidata.wikiscan.org/user/Ainali) tog 
 initiativet till [ett första kopplingssprint](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Swedish_Riksdag_documents/Kopplingssprint)  under hösten 2020 och 21 augusti detta år genomfördes den andra. 
 
