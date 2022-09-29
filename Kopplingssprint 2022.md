@@ -1,3 +1,5 @@
+_publicerad  [27 sep 2022 hos Wikimedia](https://wikimedia.se/2022/09/27/kopplingssprint-2022/)_
+
 ## Kopplingssprint 2022
 
 Sedan två år tillbaka finns riksdagens metadata för lagar, propositioner, motioner, skriftliga 
