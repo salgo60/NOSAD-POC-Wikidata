@@ -24,3 +24,6 @@ To enable on all platforms you need to have a Wikipedia account and then :
 Se example [global.js](https://meta.wikimedia.org/wiki/User:Salgo60/global.js)
 ### POC
 se [salgo60/ProjectOutdoorGyms/issues/120](https://github.com/salgo60/ProjectOutdoorGyms/issues/120#issuecomment-1242183361)
+## Misc
+* Bok om [Kunskapsgrafer](https://kgbook.org/) av Ying Ding et al... video med henne ["Scalable Graph Search & Graph Mining"](https://watch.knowledgegraph.tech/videos/ying-ding-katana-graph-solutions-scalable-graph-search-graph-mining)
+[<img width="300" alt="image" src="https://user-images.githubusercontent.com/14206509/193150119-de0c62ef-3026-4581-ab05-583cfe33f200.png">](https://kgbook.org/)
