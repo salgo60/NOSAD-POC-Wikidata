@@ -22,3 +22,5 @@ To enable on all platforms you need to have a Wikipedia account and then :
 3. Click "Publish changes"
 
 Se example [global.js](https://meta.wikimedia.org/wiki/User:Salgo60/global.js)
+### POC
+se [salgo60/ProjectOutdoorGyms/issues/120](https://github.com/salgo60/ProjectOutdoorGyms/issues/120#issuecomment-1242183361)
