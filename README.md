@@ -27,3 +27,10 @@ se [salgo60/ProjectOutdoorGyms/issues/120](https://github.com/salgo60/ProjectOut
 ## Misc
 * Bok om [Kunskapsgrafer](https://kgbook.org/) av Ying Ding et al... video med henne ["Scalable Graph Search & Graph Mining"](https://watch.knowledgegraph.tech/videos/ying-ding-katana-graph-solutions-scalable-graph-search-graph-mining)
 [<img width="300" alt="image" src="https://user-images.githubusercontent.com/14206509/193150119-de0c62ef-3026-4581-ab05-583cfe33f200.png">](https://kgbook.org/)
+
+### Examples
+* "[Food Discovery with Uber Eats: Building a Query Understanding Engine](https://www.uber.com/en-SE/blog/uber-eats-query-understanding)"
+  * "_At Uber, we are building a food-focused knowledge base to enable better understanding of food-related queries._"
+  * Facebook se "[Industry-scale Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3329781.3332266)" _Facebook has the world’s largest social graph_
+<img width="1256" alt="image" src="https://user-images.githubusercontent.com/14206509/193386648-cb65ca8a-b27b-4e32-8a2f-7dcede83c19d.png">
+  * "[How Amazon’s Product Graph is helping customers find products more easily](https://www.aboutamazon.com/news/innovation-at-amazon/making-search-easier)"
