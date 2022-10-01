@@ -9,7 +9,11 @@ Se om vi kan koppla ihop Wikipedia med NOSAD som finns i <a target=_blank href="
   * [Open by default](https://salgo60.github.io/NOSAD-POC-Wikidata/?q=Q16584519)
   * [Open Goverment](https://salgo60.github.io/NOSAD-POC-Wikidata/?q=Q720829) -  WD [Q720829](https://www.wikidata.org/wiki/Q720829)
   
-## Test NOSAD kopping Wikipedia
+## Test NOSAD koppling Wikipedia
+Är bara en flik idag se [video](https://youtu.be/dYgWB1tGieI) med lösa tankar
+
+<img width="1242" alt="image" src="https://user-images.githubusercontent.com/14206509/193405565-7fff9831-d14a-4fab-ab40-78a966ae6709.png">
+
 
 To enable on all platforms you need to have a Wikipedia account and then :
 
