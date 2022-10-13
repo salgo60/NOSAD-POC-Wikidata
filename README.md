@@ -39,3 +39,8 @@ se [salgo60/ProjectOutdoorGyms/issues/120](https://github.com/salgo60/ProjectOut
 <img width="1256" alt="image" src="https://user-images.githubusercontent.com/14206509/193386648-cb65ca8a-b27b-4e32-8a2f-7dcede83c19d.png">
 
   * "[How Amazon’s Product Graph is helping customers find products more easily](https://www.aboutamazon.com/news/innovation-at-amazon/making-search-easier)"
+  
+### More books
+* [Knowledge Graphs Applied](https://www.manning.com/books/knowledge-graphs-applied)
+* [Graph Neural Networks in Action](https://www.manning.com/books/graph-neural-networks-in-action)
+
