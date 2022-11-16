@@ -1,5 +1,6 @@
 # NOSAD Wikidata POC
 POC [Nosad](https://nosad.se) koppling WD ( [WD Q110192600](https://www.wikidata.org/wiki/Q110192600)) se [utkast metadata](https://github.com/salgo60/NOSAD-POC-Wikidata/blob/main/data/NOSAD%20org.csv) och [Wikibase Oswald](https://oswald.wikibase.cloud/wiki/NOSAD-POC)
+* [metadata in csv](https://github.com/salgo60/NOSAD-POC-Wikidata/blob/main/data/NOSAD%20org.csv)
 
 Se om vi kan koppla ihop Wikipedia med NOSAD som finns i <a target=_blank href="https://sweopendata.wikibase.cloud/wiki/NOSAD">Wikibase.cloud</a> dvs. en "kopia" av Wikidata alternativt direkt i Wikidata
 * Synpunkter/tankar lämnas i <a href="https://github.com/salgo60/NOSAD/issues">Issues</a>
