@@ -33,6 +33,7 @@ se [salgo60/ProjectOutdoorGyms/issues/120](https://github.com/salgo60/ProjectOut
 * Bok om [Kunskapsgrafer](https://kgbook.org/) av Ying Ding et al... video med henne ["Scalable Graph Search & Graph Mining"](https://watch.knowledgegraph.tech/videos/ying-ding-katana-graph-solutions-scalable-graph-search-graph-mining)
 [<img width="300" alt="image" src="https://user-images.githubusercontent.com/14206509/193150119-de0c62ef-3026-4581-ab05-583cfe33f200.png">](https://kgbook.org/)
 
+* Video [KGC 2022: 'Yes, You Can Use Knowledge Graphs in Real Life!' — Amazon Web Services & Lexis Nexis](https://www.youtube.com/watch?app=desktop&v=ZpxIKeVvc08)
 ### Examples
 * "[Food Discovery with Uber Eats: Building a Query Understanding Engine](https://www.uber.com/en-SE/blog/uber-eats-query-understanding)"
   * "_At Uber, we are building a food-focused knowledge base to enable better understanding of food-related queries._"
@@ -44,4 +45,4 @@ se [salgo60/ProjectOutdoorGyms/issues/120](https://github.com/salgo60/ProjectOut
 ### More books
 * [Knowledge Graphs Applied](https://www.manning.com/books/knowledge-graphs-applied)
 * [Graph Neural Networks in Action](https://www.manning.com/books/graph-neural-networks-in-action)
-
+* [Designing and Building Knowledge graphs](https://link.springer.com/book/10.1007/978-3-031-01916-6
