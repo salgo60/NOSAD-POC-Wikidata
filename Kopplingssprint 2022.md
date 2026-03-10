@@ -9,6 +9,9 @@ I metadatan ingår
 * vilket utskott som behandlade dokumentet - [Property:P7727](https://www.wikidata.org/wiki/Property:P7727?uselang=sv) - [exempel](https://w.wiki/5kRD)
 * när dokumentet lämnades in WD - [Property:P577](https://www.wikidata.org/wiki/Property:P577?uselang=sv)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4abd0f88-cac3-48d9-9932-c30ac2bb9539" />
+
+
 Wikidata gör det möjligt att lägga till ytterligare data till varje dokument, som 
 * vad det refererar till - [Property:P2860](https://www.wikidata.org/wiki/Property:P2860?uselang=sv) - [exempel](https://w.wiki/5kRL)
 * orsaken till motionen - [Property:P828](https://www.wikidata.org/wiki/Property:P828?uselang=sv) - [exempel](https://w.wiki/5kRN)
@@ -54,3 +57,6 @@ Som så alltid i wikivärlden är arbetet inte klart. Vid början av varje Riksm
 Relaterade inlägg: 
 
 https://wikimedia.se/2021/12/15/ett-riksdagsdokument-sager-mer-an-tusen-ord
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11de4a43-1f3b-4863-aba3-e46c18bcaffd" />
+
